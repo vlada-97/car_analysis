@@ -18,7 +18,7 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/vlada-97/car_analysis.git
 ```
 
 Установите необходимые зависимости:
